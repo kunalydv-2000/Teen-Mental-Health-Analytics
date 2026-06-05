@@ -1,3 +1,5 @@
+![project_banner](https://github.com/kunalydv-2000/Teen-Mental-Health-Analytics/blob/dfb5f2cef3a3f942637579f7e665ce1d5aa7f970/project_banner.png)
+
 # Teen Mental Health Analytics Dashboard
 
 ![SQL](https://img.shields.io/badge/SQL%20Server-Database-red)
