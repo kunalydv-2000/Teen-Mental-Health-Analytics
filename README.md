@@ -401,6 +401,6 @@ Teen-Mental-Health-Analytics/
 
 Aspiring Data Analyst | SQL | Power BI | Data Visualization | Business Intelligence
 
-LinkedIn: Add Your Profile Link
+LinkedIn: [Kunal Yadav](https://www.linkedin.com/in/kunal-yadav-194364123)
 
-GitHub: Add Your GitHub Profile Link
+GitHub: [kunalydv-2000](https://github.com/kunalydv-2000)
